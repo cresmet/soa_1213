@@ -25,6 +25,7 @@
    <list n="listOfChildren">
       <hash><url n="URL" path="proj_1213/proj_1213.jpr"/></hash>
       <hash><url n="URL" path="proj-deploy-params/proj-deploy-params.jpr"/></hash>
+      <hash><url n="URL" path="proj-git/proj-git.jpr"/></hash>
       <hash><url n="URL" path="proj-with-mds/proj-with-mds.jpr"/></hash>
    </list>
    <hash n="oracle.jdeveloper.maven.compiler.MavenConfiguration">

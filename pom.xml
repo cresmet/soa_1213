@@ -10,5 +10,6 @@
     	<module>proj_1213</module>
     	<module>proj-deploy-params</module>
     	<module>proj-with-mds</module>
+    	<module>proj-git</module>
     </modules>
 </project>
