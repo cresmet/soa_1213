@@ -59,6 +59,25 @@
         <input>proj_1213</input>
     </properties>
 
+    <profiles>
+      <profile>
+        <id>main</id>
+        <activation>
+          <activeByDefault>true</activeByDefault>
+        </activation>
+        <repositories>
+          <repository>
+            <id>maven.oracle.com</id>
+            <url>https://maven.oracle.com</url>
+            <layout>default</layout>
+            <releases>
+              <enabled>true</enabled>
+            </releases>
+          </repository>
+        </repositories>
+      </profile>
+    </profiles>
+      
     <!--
            These refer to the properties defined above.  You should probably not need to make 
            any changes beflow this point - these just point to the properties above.
