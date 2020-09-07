@@ -11,5 +11,6 @@
     	<module>proj-deploy-params</module>
     	<module>proj-with-mds</module>
     	<module>proj-git</module>
+    	<module>proj-folder</module>
     </modules>
 </project>
